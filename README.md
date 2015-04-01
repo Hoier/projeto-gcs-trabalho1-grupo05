@@ -2,8 +2,8 @@
 Projeto para a disciplina de Gerência de Configuração - Grupo 5
 Utilizando o Git e o ambiente GitHub para o aprendizado da ferramenta e de suas funcionalidades.
 Alunos:
-Daniel de Oliveira
-Lucas de Assis
-Lucas Henrique
-Marcos Vincius
-Yuri Matheus
+Daniel de Oliveira,
+Lucas de Assis,
+Lucas Henrique,
+Marcos Vincius,
+Yuri Matheus.
