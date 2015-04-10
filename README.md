@@ -4,6 +4,6 @@ Utilizando o Git e o ambiente GitHub para o aprendizado da ferramenta e de suas 
 Alunos:
 Daniel de Oliveira,
 Lucas de Assis,
-Lucas Henrique (lucashnoliveira@gmail.com),
+Lucas Henrique,
 Marcos Vincius,
 Yuri Matheus.
