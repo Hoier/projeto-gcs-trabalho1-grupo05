@@ -2,3 +2,8 @@
 Nome do autor: Yuri Matheus Dias
 Data de criação: 12/04/2015
 Hora de criação: 17:22:15
+
+Nome artefato: 1.03-Yuri.txt
+Nome do(a) autor(a) da alteração: Lucas Henrique N. de Oliveira
+Data da alteração: 13/04/2015
+Hora da alteração: 18:15:00

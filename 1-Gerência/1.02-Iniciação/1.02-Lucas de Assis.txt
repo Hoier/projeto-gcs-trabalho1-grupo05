@@ -2,3 +2,7 @@ Nome artefato: 1.02-Lucas de Assis.txt
 Nome do(a) autor(a): Lucas de Assis
 Data de criação: 10/04/2014
 Hora de criação: 17:25:23
+Nome artefato: 1.02-Lucas de Assis.txt
+Nome do(a) autor(a) da alteração: Yuri Matheus Dias Pereira
+Data de alteração: 13/04/2015
+Hora de alteração: 18:15:43
