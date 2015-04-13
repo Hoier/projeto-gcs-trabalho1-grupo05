@@ -2,3 +2,7 @@ Nome artefato: 1.01-Marcos.txt
 Nome do(a) autor(a): Marcos Vinicius Ribeiro Silva
 Data de criação: 13/04/2015
 Hora de criação: 17:29:41
+Nome artefato: 1.01-Marcos.txt
+Nome do(a) autor(a) da alteração: Lucas de Assis Rosa
+Data de alteração: 13/04/2015
+Hora de alteração: 18:09:13
