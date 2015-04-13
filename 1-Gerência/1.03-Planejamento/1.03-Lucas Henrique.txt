@@ -1,4 +1,9 @@
-Nome artefato: 1.03-Lucas Henrique.txt
+﻿Nome artefato: 1.03-Lucas Henrique.txt
 Nome do autor: Lucas Henrique N .de Oliveira  
 Data de criação: 13/04/2015
 Hora de criação: 17:57:15
+
+Nome artefato: 1.03-Lucas Henrique.txt
+Nome do(a) autor(a) da alteração: Daniel de Oliveira Vasconcelos
+Data da alteração: 13/04/2015
+Hora da alteração: 18:08:00
