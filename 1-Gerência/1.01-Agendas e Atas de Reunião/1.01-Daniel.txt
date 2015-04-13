@@ -2,3 +2,7 @@ Nome artefato: 1.01-Daniel.txt
 Nome do(a) autor(a): Daniel de Oliveira Vasconcelos
 Data de criação: 12/04/2015
 Hora de criação: 17:22:58
+Nome artefato: 1.01-Daniel.txt
+Nome do(a) autor(a) da alteração: Marcos Vinicius Ribeiro Silva
+Data da alteração: 13/04/2015
+Hora da alteração: 18:11:37
