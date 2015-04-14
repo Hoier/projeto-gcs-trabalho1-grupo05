@@ -1,4 +1,6 @@
 ﻿Nome artefato: 2.02-Yuri.txt
 Nome do autor: Yuri Matheus Dias
 Data de criação: 13/04/2015
-Hora de criação: 18:45:16
+Hora de criação: 18:45:00
+
+Passo 15
